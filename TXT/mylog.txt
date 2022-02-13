@@ -2,4 +2,5 @@
 # ZCZC WEEK# Minutes LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 20 L9 Finish this weeks' assignments
+ZCZC W00 20 L09 Finish this weeks' assignments
+ZCZC W00 30 L06 Read up on the course plan
