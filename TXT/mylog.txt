@@ -6,3 +6,5 @@ ZCZC W00 20 L09 Finish this weeks' assignments
 ZCZC W00 30 L06 Read up on the course plan
 ZCZC W00 100 L15 Reading Assignment: Read about Operating Systems
 ZCZC W00 30 L09 Fix github assignment
+ZCZC W01 120 L11 Finish Assignment 01
+ZCZC W01 40 L09 Finish Assignments 02-04
