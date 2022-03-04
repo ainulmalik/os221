@@ -10,3 +10,5 @@ ZCZC W01 120 L11 Finish Assignment 01
 ZCZC W01 40 L09 Finish Assignments 02-04
 ZCZC W02 120 L11 Finish Assignments 01-06
 ZCZC W02 60 L06 Read articles to add to Links page
+ZCZC W03 120 L11 Finish all Assignments
+ZCZC W03 60 L06 Read about scripts and file systems

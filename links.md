@@ -18,4 +18,10 @@ permalink: /LINKS/
    A explanation page that explains the basics of GnuPG. Useful for understanding the purpose of GnuPG and how it works.
    
 4. [Understanding Linux File Systems](https://opensource.com/article/18/4/ext4-filesystem) <br>
-   A blog that explains about the history of ext4 and the history of Linux's file systems. Gives a brief history of used file systems and gives an understanding of the growth between each of them.
+   A blog that explains about the history of ext4 and the history of Linux's file systems. Gives a brief history of used file systems and gives an understanding of the growth between each of them
+
+5. [Vim Cheat Sheet](https://www.keycdn.com/blog/vim-commands) <br>
+   A cheat sheet for editing text files or other files using the Vim text editor. Useful for writing the files needed for each weeks assignment.
+
+6. [Writing C Scripts] (https://www.ddl.unimi.it/manual/plugins/c-scripts.htm) <br>
+   A guide that gives an introductory explanation into the writing of C language scripts. Makes it easier to understand the scripts used to generate the files needed for assignments.
