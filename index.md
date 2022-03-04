@@ -4,7 +4,7 @@
 
 By {{ site.author }}
 
-[HOME]({{ site.baseurl }}/) --- [GITHUB]({{ site.githublink }}) --- [LOG]({{ site.myloglink }}) --- [LINKS]({{ site.baseurl }}/LINKS/)
+[Home]({{ site.baseurl }}/) | [GitHub]({{ site.githublink }}) | [Log]({{ site.myloglink }}) | [Links]({{ site.baseurl }}/LINKS/)
 
 Hi, everyone! Welcome to {{ site.title }} . My name is {{ site.author }}.
 
