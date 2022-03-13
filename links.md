@@ -23,5 +23,11 @@ permalink: /LINKS/
 5. [Vim Cheat Sheet](https://www.keycdn.com/blog/vim-commands) <br>
    A cheat sheet for editing text files or other files using the Vim text editor. Useful for writing the files needed for each weeks assignment.
 
-6. [Writing C Scripts] (https://www.ddl.unimi.it/manual/plugins/c-scripts.htm) <br>
+6. [Writing C Scripts](https://www.ddl.unimi.it/manual/plugins/c-scripts.htm) <br>
    A guide that gives an introductory explanation into the writing of C language scripts. Makes it easier to understand the scripts used to generate the files needed for assignments.
+
+7. [The Linux Programming Interface Guide](https://man7.org/tlpi/) <br>
+   A page that gives a description of The Linux Programming Interface handbook. Contains chapter lists, source codes, and downloadable samples to help you understand TLPI.
+
+8. [Guide to Linux Programming](https://digital.com/best-website-builders/linux/) <br>
+   A beginners guide that explains the basics of programming with linux. Explains about scripting and gives links to other useful sources that could help you learn linux programming.
