@@ -31,3 +31,9 @@ permalink: /LINKS/
 
 8. [Guide to Linux Programming](https://digital.com/best-website-builders/linux/) <br>
    A beginners guide that explains the basics of programming with linux. Explains about scripting and gives links to other useful sources that could help you learn linux programming.
+
+9. [Walkthrough: Compile a C program on the command line](https://docs.microsoft.com/en-us/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=msvc-170) <br>
+   A walkthrough from the Microsoft documentation page for compiling c files. Gives a clear step-by-step explanation for compiling c files.
+
+10. [C Language Tutorial](https://www.w3schools.com/c/index.php) <br>
+    A W3Schools tutorial on writing in the C language. Teaches about the syntax, data types and others used in the C language.

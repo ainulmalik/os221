@@ -15,3 +15,5 @@ ZCZC W03 60 L06 Read about scripts and file systems
 ZCZC W04 100 L11 Finish Assignments
 ZCZC W04 45 L06 Read about Linux and Linux programming
 ZCZC W04 30 L07 Try DEMOs
+ZCZC W05 140 L11 Finish all Assignments
+ZCZC W05 30 L06 Read about C language and compiling
