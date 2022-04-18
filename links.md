@@ -37,3 +37,9 @@ permalink: /LINKS/
 
 10. [C Language Tutorial](https://www.w3schools.com/c/index.php) <br>
     A W3Schools tutorial on writing in the C language. Teaches about the syntax, data types and others used in the C language.
+
+11. [SCP Command Guide](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) <br>
+    A guide for using the SCP (secure copy) command. Useful for transfering files between systems like the os1 server.
+
+12. [What is Shared Memory?](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/shm/what-is-shm.html#:~:text=Shared%20memory%20is%20a%20feature,shared%20area%20can%20access%20it.) <br>
+    A document that explains about the definition and uses of shared memory. Discusses about the fork() system call as well.
