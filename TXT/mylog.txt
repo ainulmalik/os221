@@ -21,3 +21,5 @@ ZCZC W06 30 L11 Finish all Assignments
 ZCZC W06 40 L06 Read about Scripting and Forking
 ZCZC W07 50 L11 Finish all Assignments
 ZCZC W07 30 L06 Finish reading assignments
+ZCZC W08 60 L11 Finish all Assignments
+ZCZC W08 30 L06 Read about Linux from Scratch
