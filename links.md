@@ -43,3 +43,15 @@ permalink: /LINKS/
 
 12. [What is Shared Memory?](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/shm/what-is-shm.html#:~:text=Shared%20memory%20is%20a%20feature,shared%20area%20can%20access%20it.) <br>
     A document that explains about the definition and uses of shared memory. Discusses about the fork() system call as well.
+
+13. [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux) <br>
+    An intuitive explanation of process synchronization in linux. Useful for getitng a deeper understanding of the subject.
+
+14. [Synchronization in Linux and Windows](https://auriga.com/blog/2019/thread-synchronization-in-linux-and-windows-systems/) <br>
+    Explains synchronization in Linux compared to Windows. Strengthens understanding of the topic when comparing to other systems.
+
+15. [Read Linux from Scratch Online](https://www.linuxfromscratch.org/lfs/read.html) <br>
+    A portal for finding links to parts of the Linux from Scratch book. Useful as alternative links for this weeks assignment.
+
+16. [Useful Applications of Linux](https://www.makeuseof.com/what-is-linux-used-for/) <br>
+    Useful things you can after creating your own Linux device. Where to go from after following Linux from Scratch.
