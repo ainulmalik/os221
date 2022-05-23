@@ -23,3 +23,7 @@ ZCZC W07 50 L11 Finish all Assignments
 ZCZC W07 30 L06 Finish reading assignments
 ZCZC W08 60 L11 Finish all Assignments
 ZCZC W08 30 L06 Read about Linux from Scratch
+ZCZC W09 120 L11 Finish all Assignments
+ZCZC W09 30 L06 Find links about Linux
+ZCZC W10 200 L11 Finish all Assignments
+ZCZC W10 40 Read about linux

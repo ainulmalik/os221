@@ -54,4 +54,10 @@ permalink: /LINKS/
     A portal for finding links to parts of the Linux from Scratch book. Useful as alternative links for this weeks assignment.
 
 16. [Useful Applications of Linux](https://www.makeuseof.com/what-is-linux-used-for/) <br>
-    Useful things you can after creating your own Linux device. Where to go from after following Linux from Scratch.
+    Useful things you can after creating your own Linux device. Where to go from after following Linux from Scratch
+
+17. [Why Build Linux from Scratch?](https://www.quora.com/Why-should-anyone-build-Linux-from-scratch) <br>
+    An interesting Quora discussion about the uses of Linux from Scratch. Deepens insight about its uses.
+
+18. [About Linux Package Managers](https://garywoodfine.com/what-is-a-linux-package-manager/) <br>
+    An article about what linux package managers are. Interesting if your package installs keep failing.
